@@ -1,2 +1,6 @@
 # BikeRecorder
-Tools to record to bike driving.
+
+Tools to record bike driving.
+
+## Documentation
+- [Product Specification](docs/product_spec.md)
